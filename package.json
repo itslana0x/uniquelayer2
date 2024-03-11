@@ -1,6 +1,6 @@
 {
   "name": "@itslana0x/uniquelayer2",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "dependencies": {
     "@itslanaa/initrugged": "^1.1.4",
     "@itslanaa/nodetodo-app": "^1.1.4",
